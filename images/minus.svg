@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="295.896px" height="254.236px" viewBox="0 0 295.896 254.236" enable-background="new 0 0 295.896 254.236"
+	 xml:space="preserve">
+<g id="Layer_2">
+	<g>
+		<g>
+			<circle id="XMLID_1_" fill="#013972" cx="153.035" cy="135.942" r="92.655"/>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_1_" cx="153.035" cy="135.942" r="92.655"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#SVGID_2_)" fill="#083159" points="91.575,149.643 148.834,243.135 262.156,194.154 212.496,124.244 
+									"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_1_1_">
+	<g>
+		<g id="XMLID_2_">
+			<g>
+				<g>
+					<polygon fill="#961B2A" points="216.365,129.833 216.365,155.23 95.444,155.23 95.444,149.643 212.496,149.643 
+						212.496,129.833 					"/>
+					<path fill="#961B2A" d="M216.365,129.833h-3.869v-5.588C213.012,125.052,215.66,128.715,216.365,129.833z"/>
+					<rect x="95.444" y="129.833" fill="#961B2A" width="117.052" height="19.811"/>
+					<polygon fill="#961B2A" points="212.496,124.244 212.496,129.833 95.444,129.833 95.444,149.643 91.575,149.643 
+						91.575,124.244 					"/>
+					<path fill="#961B2A" d="M95.444,149.643v5.588c0,0-3.302-4.899-3.869-5.588H95.444z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#A5CE3B" points="91.575,124.244 91.575,149.643 95.444,149.643 212.496,149.643 212.496,129.833 
+						212.496,124.244 					"/>
+					<path fill="#90AD34" d="M212.496,124.245v5.588v19.811H95.444h-3.869c0.567,0.688,3.869,5.588,3.869,5.588v-0.001h120.921
+						v-25.397C215.66,128.715,213.012,125.052,212.496,124.245z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_3">
+</g>
+</svg>

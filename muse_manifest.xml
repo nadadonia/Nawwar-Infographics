@@ -1,0 +1,87 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nawwar.co" resolutions="1x,2x" timestamp="1480584583071">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="86269892" ref="cs1-arabic:cs2-arabic:cs1-arabic-2-copy:index:cs1-english:cs2-slideshow:cs2-arabic--2:cs1-arabic-2"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="cs1-arabic:cs2-arabic:cs1-arabic-2-copy:index:cs1-english:cs2-slideshow:cs2-arabic--2:cs1-arabic-2"/>
+    <file name="cs1-arabic.css" crc="149021483" ref="cs1-arabic"/>
+    <file name="cs2-arabic.css" crc="320759930" ref="cs2-arabic"/>
+    <file name="nomq_cs2-arabic.css" crc="4004824914" ref="cs2-arabic"/>
+    <file name="cs1-arabic-2-copy.css" crc="78995326" ref="cs1-arabic-2-copy"/>
+    <file name="index.css" crc="4204691309" ref="index"/>
+    <file name="cs1-english.css" crc="296378513" ref="cs1-english"/>
+    <file name="cs2-slideshow.css" crc="361284350" ref="cs2-slideshow"/>
+    <file name="cs2-arabic--2.css" crc="4023687652" ref="cs2-arabic--2"/>
+    <file name="cs1-arabic-2.css" crc="428616555" ref="cs1-arabic-2"/>
+  </folder>
+  <folder name="fonts">
+    <file name="myriadarabic-bold.woff" crc="393689587"/>
+    <file name="myriadarabic-bold.eot" crc="4166438197"/>
+    <file name="myriadarabic-bold.svg" crc="4014078167"/>
+    <file name="myriadarabic-regular.woff" crc="3887104069"/>
+    <file name="myriadarabic-regular.eot" crc="452369486"/>
+    <file name="myriadarabic-regular.svg" crc="53735929"/>
+  </folder>
+  <folder name="assets">
+    <file name="data.json" crc="4231601185" seo="true" mt="1472039432000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="museutils.js" crc="3851988764" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="require.js" crc="4108833657" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="pie.js" crc="3831537696" ref="cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="cs2-arabic"/>
+    <file name="webpro.js" crc="4067903014" ref="cs2-slideshow"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="cs2-slideshow"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="cs2-slideshow"/>
+    <file name="touchswipe.js" crc="474750357" ref="cs2-slideshow"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3847485588" ref="index"/>
+    <file name="logo.svg" crc="28586974" seo="true" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="logo_poster_.png" crc="4223456378" ref="index"/>
+    <file name="ciintrosymbols.svg" crc="145806566" seo="true" ref="index:cs1-english:cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="ciintrosymbols_poster_.png" crc="4217699705" ref="index"/>
+    <file name="algorithmbook.svg" crc="3963527268" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="algorithmbook_poster_.png" crc="4213566533" ref="cs1-arabic"/>
+    <file name="khawarizmi.gif" crc="297876598" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="khawarizmi_2x.gif" crc="297876598" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="add.svg" crc="4171950529" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="add_poster_.png" crc="465997481" ref="cs1-arabic"/>
+    <file name="minus.svg" crc="535285903" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="minus_poster_.png" crc="32682589" ref="cs1-arabic"/>
+    <file name="multiplication.svg" crc="40013592" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="multiplication_poster_.png" crc="3789402761" ref="cs1-arabic"/>
+    <file name="scientists.svg" crc="4082457192" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="scientists_poster_.png" crc="146219956" ref="cs1-arabic"/>
+    <file name="cake.svg" crc="292877380" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="cake_poster_.png" crc="4041361365" ref="cs1-arabic"/>
+    <file name="kitchennew2.gif" crc="3835542499" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="lam3icakes.svg" crc="3964859111" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="lam3icakes_poster_.png" crc="4276974666" ref="cs1-arabic"/>
+    <file name="machine.gif" crc="461329979" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="machine_2x.gif" crc="461329979" seo="true" ref="cs1-arabic:cs1-arabic-2:cs1-arabic-2-copy"/>
+    <file name="gpspanel.gif" crc="441657283" seo="true" ref="cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="gpspanel_2x.gif" crc="441657283" seo="true" ref="cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="gps.gif" crc="4192517093" seo="true" ref="cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="gps_2x.gif" crc="4192517093" seo="true" ref="cs1-arabic:cs2-arabic:cs1-arabic-2:cs2-arabic--2:cs2-slideshow:cs1-arabic-2-copy"/>
+    <file name="lam3ifrustrated.svg" crc="61867735" seo="true" ref="cs2-arabic:cs2-arabic--2:cs2-slideshow"/>
+    <file name="lam3ifrustrated_poster_.png" crc="379655671" ref="cs2-arabic"/>
+    <file name="animals.gif" crc="450866900" seo="true" ref="cs2-arabic:cs2-arabic--2:cs2-slideshow"/>
+    <file name="animals_2x.gif" crc="450866900" seo="true" ref="cs2-arabic:cs2-arabic--2:cs2-slideshow"/>
+    <file name="vars.gif" crc="4201994355" seo="true" ref="cs2-arabic:cs2-arabic--2:cs2-slideshow"/>
+    <file name="vars_2x.gif" crc="4201994355" seo="true" ref="cs2-arabic:cs2-arabic--2:cs2-slideshow"/>
+    <file name="blank.gif" crc="4208392903" ref="cs2-arabic:cs2-slideshow"/>
+    <file name="loading.gif" crc="3815509949" ref="cs2-slideshow"/>
+  </folder>
+  <file name="index.html" crc="4140793083" seo="true" mt="1480584483936" redirect="true"/>
+  <file name="cs1-english.html" crc="394732227" seo="true" mt="1474396127564" redirect="true"/>
+  <file name="cs1-arabic.html" crc="105282491" seo="true" mt="1474396364122" redirect="true"/>
+  <file name="cs2-arabic.html" crc="4071373046" seo="true" mt="1474396127564" redirect="true"/>
+  <file name="cs1-arabic-2.html" crc="3865066210" seo="true" mt="1476807499435" redirect="true"/>
+  <file name="cs2-arabic--2.html" crc="41365236" seo="true" mt="1477214906304" redirect="true"/>
+  <file name="cs2-slideshow.html" crc="3806703670" seo="true" mt="1476511837719" redirect="true"/>
+  <file name="cs1-arabic-2-copy.html" crc="33067930" seo="true" mt="1476807799517" redirect="true"/>
+</manifest>
